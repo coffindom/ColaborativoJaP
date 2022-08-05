@@ -5,6 +5,10 @@ margin-right:auto;
 margin-top: 5%;
 }
 
+img{
+    float: left;
+}
+
 .botones{
     align-items: center;
     text-align: center;
